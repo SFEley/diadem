@@ -1,0 +1,1 @@
+doc/design/philosophy.markdown
